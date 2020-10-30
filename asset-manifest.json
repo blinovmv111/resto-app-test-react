@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/restoAppFolder/static/css/main.8f9ed523.chunk.css",
+    "main.js": "/restoAppFolder/static/js/main.53593dbd.chunk.js",
+    "main.js.map": "/restoAppFolder/static/js/main.53593dbd.chunk.js.map",
+    "runtime~main.js": "/restoAppFolder/static/js/runtime~main.243f79e9.js",
+    "runtime~main.js.map": "/restoAppFolder/static/js/runtime~main.243f79e9.js.map",
+    "static/js/2.c32ca1cc.chunk.js": "/restoAppFolder/static/js/2.c32ca1cc.chunk.js",
+    "static/js/2.c32ca1cc.chunk.js.map": "/restoAppFolder/static/js/2.c32ca1cc.chunk.js.map",
+    "index.html": "/restoAppFolder/index.html",
+    "precache-manifest.aafbf34b5ea6409314f7953134f29758.js": "/restoAppFolder/precache-manifest.aafbf34b5ea6409314f7953134f29758.js",
+    "service-worker.js": "/restoAppFolder/service-worker.js",
+    "static/css/main.8f9ed523.chunk.css.map": "/restoAppFolder/static/css/main.8f9ed523.chunk.css.map",
+    "static/media/food-bg.jpg": "/restoAppFolder/static/media/food-bg.698e5e80.jpg",
+    "static/media/menu-list-item.scss": "/restoAppFolder/static/media/salad.f4486544.svg",
+    "static/media/shopping-cart-solid.svg": "/restoAppFolder/static/media/shopping-cart-solid.701d6d1d.svg"
+  }
+}
